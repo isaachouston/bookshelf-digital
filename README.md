@@ -39,7 +39,7 @@ Instale os módulos, executando:
 yarn
 ```
 
-Inicialize o emulador, e excute na pasta do projeto:
+execute o comando abaixo:
 
 ```
 yarn start
